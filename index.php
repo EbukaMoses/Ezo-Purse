@@ -10,7 +10,7 @@
                         
                     </h1>
                     <h5 class="text-white font-weight-bold">Your number 1 platform for all sorts of trades!</h5>
-                    <a href="" class=" font-weight-bold btn-lg mt-5 btn btn-slide">Strat Trading</a>
+                    <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class=" font-weight-bold btn-lg mt-5 btn btn-slide">Strat Trading</a>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-6">
 
@@ -31,7 +31,7 @@
                 <h1 class="welcome-text">We are a top exchange platform</h1>
                 <p>We are a company that is committed to providing you a platform with which you can trade gift cards and bitcoin in a safe, credible and profitable manner. Our no1 goal is to make sure that you make massive profits on each trade.</p>
                 <br><br>
-                <center><a href="" class="btn btn-ezo mb-4">About Us</a></center>
+                <center><a href="about-us.php" class="btn btn-ezo mb-4">About Us</a></center>
                 <br>
             </div>
         </div>
@@ -81,6 +81,60 @@
         </div>
     </div>
 
+    <div class="w-100 pt-5 pb-4 gradient-bg">
+        <div class="container mt-4">
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <h5 class="font-weight-bold text-white">ABOUT US</h5>
+                    <h1 class="font-weight-bold text-white">We are a top exchange platform</h1>
+                    <p class="text-white">We are a company that is committed to providing you a platform with which you can trade gift cards and bitcoin in a safe, credible and profitable manner. Our no1 goal is to make sure that you make massive profits on each trade.</p>
+                    <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="btn btn-white font-weight-bold mt-3 mb-4">Trade Now</a>
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="count text-dark pt-4 pb-4  text-center">
+                        <h2 class="count-text">738+ <br>
+                        Customers</h2>
+                    </div>
+
+                    <div class="row pl-5">
+                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
+                            <div class="small-card">
+                                <center><i class="small-fa fa-solid fa-shield-halved"></i></center>
+                               
+                            </div>                             
+                            <h5 class="text-white ml-4 small-text">Safe & Secure</h5>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
+                            <div class="small-card">
+                                <center><i class="small-fa fa-solid fa-clock"></i></center>
+                               
+                            </div>                             
+                            <h5 class="text-white ml-3 small-text">24/7 Availability</h5>
+                        </div>
+                    </div>
+
+                    <div class="row pl-5">
+                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
+                            <div class="small-card">
+                                <center><i class="small-fa fa-solid fa-hand-holding-dollar"></i></center>
+                               
+                            </div>                             
+                            <h5 class="text-white ml-4 small-text">Fast Payment</h5>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
+                            <div class="small-card">
+                                <center><i class="small-fa fa-solid fa-comments"></i></center>
+                               
+                            </div>                             
+                            <h5 class="text-white ml-3 small-text">Friendly Support</h5>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container">
         <div class="row ">
             <h5 class="text-color font-weight-bold d-block mx-auto variety-heading">VARIETY</h5><br>
@@ -99,7 +153,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8 float-sm-end float-right">
                         <h5 class="font-weight-bold">Bitcoin</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -112,7 +166,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">iTunes</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -125,7 +179,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Amazon</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -142,7 +196,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Apple</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -155,7 +209,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Sephora</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -168,7 +222,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Google Playstore</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -185,7 +239,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Steam</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -198,7 +252,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">eBay</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -211,7 +265,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">American Express</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -228,7 +282,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Nordstrom</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -241,7 +295,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Vanilla</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -254,7 +308,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Macy's</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -271,7 +325,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Nike</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -284,7 +338,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Target</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -297,7 +351,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Sam's Club</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -314,7 +368,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Bestbuy</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -327,7 +381,7 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Cashapp</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
@@ -340,16 +394,18 @@
                     <div class="col-md-8 col-sm-8 col-xs-8">
                         <h5 class="font-weight-bold">Alt-Coins</h5>
                         <p>Click the trade button to proceed</p>
-                        <a href="" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
+                        <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="text-decoration-none font-weight-bold text-color">Trade Now ></a>
                     </div>
                 </div>
             </div>
             
         </div>
         <div class="row d-flex justify-content-center">
-            <a href="#" class="btn bg-color text-white mt-4 mb-4 font-weight-bold">Others</a>
+            <a href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" class="btn bg-color text-white mt-4 mb-4 font-weight-bold">Others</a>
         </div>
     </div>
+
+    
 
     <div class="w-100 bg-color">
         <div class="container">
@@ -418,7 +474,7 @@
         </div>
     </div>
 
-    <div class="container pb-5">
+    <!-- <div class="container pb-5">
         <div class="row d-flex justify-content-center mt-5">
             <h5 class="text-color font-weight-bold">TRANSACTION GALLERY</h5>
         </div>
@@ -436,61 +492,9 @@
                 <img src="image/cex2-525x1024-300x200.jpg" class="img-fluid" alt="">
             </div>
         </div>
-    </div>
+    </div> -->
 
-    <div class="w-100 pt-5 pb-4 gradient-bg">
-        <div class="container mt-4">
-            <div class="row">
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                    <h5 class="font-weight-bold text-white">ABOUT US</h5>
-                    <h1 class="font-weight-bold text-white">We are a top exchange platform</h1>
-                    <p class="text-white">We are a company that is committed to providing you a platform with which you can trade gift cards and bitcoin in a safe, credible and profitable manner. Our no1 goal is to make sure that you make massive profits on each trade.</p>
-                    <a href="" class="btn btn-white font-weight-bold mt-3 mb-4">Trade Now</a>
-                </div>
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="count text-dark pt-4 pb-4  text-center">
-                        <h2 class="count-text">738+ <br>
-                        Customers</h2>
-                    </div>
-
-                    <div class="row pl-5">
-                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
-                            <div class="small-card">
-                                <center><i class="small-fa fa-solid fa-shield-halved"></i></center>
-                               
-                            </div>                             
-                            <h5 class="text-white ml-4 small-text">Safe & Secure</h5>
-                        </div>
-                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
-                            <div class="small-card">
-                                <center><i class="small-fa fa-solid fa-clock"></i></center>
-                               
-                            </div>                             
-                            <h5 class="text-white ml-3 small-text">24/7 Availability</h5>
-                        </div>
-                    </div>
-
-                    <div class="row pl-5">
-                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
-                            <div class="small-card">
-                                <center><i class="small-fa fa-solid fa-hand-holding-dollar"></i></center>
-                               
-                            </div>                             
-                            <h5 class="text-white ml-4 small-text">Fast Payment</h5>
-                        </div>
-                        <div class="col-md-6 col-sm-12 col-xs-12 mb-3 mt-4">
-                            <div class="small-card">
-                                <center><i class="small-fa fa-solid fa-comments"></i></center>
-                               
-                            </div>                             
-                            <h5 class="text-white ml-3 small-text">Friendly Support</h5>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
+    
 
     <div class="container">
         <div class="row mt-5">
@@ -527,7 +531,7 @@
             <h1 class="text-white text-center d-block mx-auto" style="margin-top: 10%">We are here to support you</h1>            
         </div>
         <div class="row">           
-            <a href="#" class="btn bg-color text-white mt-4 mb-4 p-2 d-block mx-auto font-weight-bold">Contact Support</a>
+            <a href="contact-us.php" class="btn bg-color text-white mt-4 mb-4 p-2 d-block mx-auto font-weight-bold">Contact Support</a>
         </div>
     </div>
 

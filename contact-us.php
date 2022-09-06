@@ -39,7 +39,7 @@
             <h1 class="contact-title">Details</h1>
             <div class="contact-divider"></div>
             <br><br>
-            <p><a href="" class="text-decoration-none"><i class="contact-fa fa-solid fa-envelope"></i>&nbsp; <span class="contact-detail text-dark">ezo@gmail.com</span></a></p>
+            <p><a href="" class="text-decoration-none"><i class="contact-fa fa-solid fa-envelope"></i>&nbsp; <span class="contact-detail text-dark">ezopurse@outlook.com</span></a></p>
             <p><a href="" class="text-decoration-none"><i class="contact-fa fa-solid fa-phone"></i>&nbsp; <span class="contact-detail text-dark">07030000000</span></a></p>
             <p><a href="" class="text-decoration-none"><i class="contact-fa fa-brands fa-facebook-f"></i> <span class="contact-detail text-dark">&nbsp;Facebook</span></a></p>
             <p><a href="" class="text-decoration-none"><i class="contact-fa fa-brands fa-instagram"></i> <span class="contact-detail text-dark">&nbsp;Intsagram</span></a></p>

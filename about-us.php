@@ -8,7 +8,7 @@
     <div class="row">
         <div class="col-md-6">
             <h1 class="aboutus-heading">Our Story</h1>
-            <p>Cyber Exchange is a company that’s committed to making sure you make wise decisions in the ever dynamic world of Cryptocurrency and Gift Card trading.
+            <p>Ezo Purse is a company that’s committed to making sure you make wise decisions in the ever dynamic world of Cryptocurrency and Gift Card trading.
 
             We have the knowledge, credibility, and reliability to make sure that your investments are safe and profitable.
 
@@ -25,7 +25,7 @@
             <h1 class="text-white d-block mx-auto" style="margin-top: 10%">We are here to support you</h1>            
         </div>
         <div class="row">           
-            <a href="#" class="btn bg-color text-white mt-4 mb-4 p-2 d-block mx-auto font-weight-bold">Contact Support</a>
+            <a href="contact-us.php" class="btn bg-color text-white mt-4 mb-4 p-2 d-block mx-auto font-weight-bold">Contact Support</a>
         </div>
     </div>
 

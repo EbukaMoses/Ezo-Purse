@@ -7,11 +7,11 @@
         <div class="col-md-8 col-sm-12 col-xs-12">
             <br><br><br>
             <h1 class="first-title mb-3">Terms of Use</h1>
-            <p>These Terms govern your access to, usage of all content, Product and Services available at http://cyberexchange.com.ng website (the “Service”) operated by Cyber Exchange (“us”, “we”, or “our”).</p>
+            <p>These Terms govern your access to, usage of all content, Product and Services available at http://ezopurse.com website (the “Service”) operated by Ezo Purse (“us”, “we”, or “our”).</p>
             <p>Your access to our services are subject to your acceptance, without modification, of all of the terms and conditions contained herein and all other operating rules and policies published and that may be published from time to time by us.</p>
             <p>Please read the Agreement carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to be bound by these Terms. If you do not agree to any part of the terms of the Agreement, then you may not access or use our Services.</p>
             <h1 class="term-title font-weight-bold-text-black">Intellectual Property</h1>
-            <p>The Agreement does not transfer from Us to you any of Ours or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Cyber Exchange and its licensors.</p>
+            <p>The Agreement does not transfer from Us to you any of Ours or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Ezo Purse and its licensors.</p>
             <h2 class="term-title font-weight-bold-text-black">Third Party Services</h2>
             <p>In using the Services, you may use third-party services, products, software, embeds, or applications developed by a third party (“Third Party Services”).</p>
             <p>If you use any Third Party Services, you understand that:</p>
@@ -25,15 +25,15 @@
             <p>You are responsible for maintaining the security of your account that you use to access the Service. You shall not share or misuse your access credentials. You must notify us immediately of any unauthorized uses of your account or upon becoming aware of any other breach of security.</p>
             <h1 class="term-title font-weight-bold-text-black">Termination</h1>
             <p>We may terminate or suspend your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately.</p>
-            <p>If you wish to terminate the Agreement or your Cyber Exchange account, you may simply discontinue using our Services.</p>
+            <p>If you wish to terminate the Agreement or your Ezo Purse account, you may simply discontinue using our Services.</p>
             <p>All provisions of the Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.</p>
             <h1 class="term-title font-weight-bold-text-black">Disclaimer</h1>
-            <p>Our Services are provided “AS IS.” and “AS AVAILABLE” basis. Cyber Exchange and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Cyber Exchange, nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.</p>
+            <p>Our Services are provided “AS IS.” and “AS AVAILABLE” basis. Ezo Purse and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Ezo Purse, nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.</p>
             <h2 class="term-title font-weight-bold-text-black">Jurisdiction and Applicable Law</h2>
             <p>Except to the extent any applicable law provides otherwise, the Agreement and any access to or use of our Services will be governed by the laws of Nigeria.</p>
             <p>The proper venue for any disputes arising out of or relating to the Agreement and any access to or use of our Services will be the state and federal courts located in Nigeria.</p>
             <h1 class="term-title font-weight-bold-text-black">Changes</h1>
-            <p>Cyber Exchange reserves the right, at our sole discretion, to modify or replace these Terms at any time.</p>
+            <p>Ezo Purse reserves the right, at our sole discretion, to modify or replace these Terms at any time.</p>
             <p>If we make changes that are material, we will let you know by posting on our website, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect.</p>
             <p>If you disagree with our changes, then you should stop using our Services within the designated notice period, or once the changes become effective.</p>
             <p>Your continued use of our Services will be subject to the new terms.</p>

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="fontawesome-free-6.1.1/css/all.css">
+     <link rel="icon" type="image" href="image/icon.png">
 
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
@@ -46,7 +47,7 @@
                         <a class="nav-link btn btn-primary text-white" type="button" href="#" data-toggle="modal" data-target="#myModal">Sign In</a>                  
                     </li> -->
                     <li class="nav-item">
-                        <a class="nav-link  font-weight-bold ml-3 mr-5 btn bg-color text-white" type="button" href="#" data-toggle="modal" data-target="#myModal">Trade Now</a>
+                        <a class="nav-link  font-weight-bold ml-3 mr-5 btn bg-color text-white" type="button" href="https://api.whatsapp.com/send?phone=447566826114&text=I%27m%20interested%20in%20trading%20with%20you" data-toggle="modal" data-target="#myModal">Trade Now</a>
                     </li>
                 </ul>
             </div>          
